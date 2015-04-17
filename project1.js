@@ -15,7 +15,7 @@ var offset_y=-1+2*s;
 
 var speed = 5;
 
-var objective_x=.2, objective_y=.2, objectiveSize=s;
+var objective_x=.2, objective_y=.2, objectiveSize=s; 
 
 window.onload = function init()
 {
