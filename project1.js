@@ -129,7 +129,7 @@ function drawScene()
 		touchCheck()
 		if (point) { changeObjective() }
 		drawObjectives()	
-	
+		if(score==20) { document.getElementById("status").innerHTML = "Status: " + "Well Look at That, You Won!! But I think you should keep going....call it pride."; }
 		if(start) {
 			if(offset_y > (-1+s))
 				offset_y=offset_y-gravity;		
