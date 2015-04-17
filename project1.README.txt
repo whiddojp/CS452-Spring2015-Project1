@@ -1,3 +1,20 @@
 name, date, description
+John Whiddon      4/17/2015       Project1
+Marcy Lorenzi     Partner
 
 be sure to include complete details of how to interact with your game, the scoring system, and how to win
+
+Watch the Fox play with the Box.
+
+Interaction:
+Use the A S W & D keys to move Left Down Up Right in order to get the Squares, or objectives
+If you press 1 after touching the bottom (dying) you restart (Saves highscore, resets points, resets positioning)
+
+Scoring System:
+For every objective you acquire you recieve a point, and a gravity bonus.
+As gravity increases it becomes harder for the character --> YOU <-- to move.
+That red stuff is looking kind of....warm?
+
+Win or Lose?
+If you touch the Bottom of the Map, or the red area (Almost reminds you of lava right?) then you lose.
+If you make it to 20 points you win, but can continue in order to painstakingly crawl ahead of the high score.
